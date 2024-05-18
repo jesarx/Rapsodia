@@ -58,8 +58,14 @@ En este mismo texto Sócrates dice:
 
 Hay ahora un nuevo elemento en la psyché. La verdad (aletheia).
 
-Un razonamiento similar podemos encontrar en Heráclito
+Un razonamiento similar podemos encontrar previamente en Heráclito
 
 > [...] La auténtica sabiduría consiste [φρονήσεως] en decir (legein) y hacer (poiein) la verdad (aletheia) (Fragmento 15)
+
+Lledado este punto, nos parece necesario dejar brevemente nuestro análisis de pa psyché, para hacer una breve digresión y estudiar el verbo legein, que es el origen del sustantivo logos, que será tan importante en la historia de la filosofía occidental.
+
+Legein entonces significa en el mundo Homérico recoger, recolectar, reunir algo que está disperso y reunirlo en un sitio previsto para ello, puede ser lecha para encender un fuego (O 507), las armaduras de la osamenta de los soldados caidos (Y 252), etc. Legein retorna elementos separados para regresarlos al lugar que les corresponde, para renirlos en el conjunto connatural a estos, da a lo múltiple y disperso un lugar común, un presente común. Esta recolección invariablemente implica también una discriminación, un proceso de discernir objetos separados para conformar una unidad, dejando atrás los que, quien recolecta, decide que no forman parte de dicha unidad.
+
+Es en este sentido que legein, en tanto que lenguaje o habla, tiene la connotaci de hacer un recuento de sucesos y etalles para presentarselos a alguien, para narrar el conjunto de este recolección de memorias para presentarlas como una narración unificada. Es entonces el legein la una colección o catálogo de historias externas reunidas con la intención de ser presentadas a un oyente. Es hacer saber, comunicar un catálogo de susecos unificandolos en un discurso, en una narración.
 
 
